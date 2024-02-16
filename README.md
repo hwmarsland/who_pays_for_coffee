@@ -18,7 +18,7 @@ THE ALGORITHM
 - Everyone has a balance attached to them
   - This represents the monetary value of coffee that they have consumed but not paid for if positive, and paid for but not consumed if negative
 - When a member pays for coffee, the amount they pay is subtracted from their balance
-- The person with the highest balance pays
+- The person with the highest balance pays (ties are decided by defaulting to the earlier name in the list)
 
 NOTES
 - Any entry fields have been protected so that only proper input can be accepted
