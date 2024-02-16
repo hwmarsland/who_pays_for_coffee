@@ -4,11 +4,12 @@ DESCRIPTION
 - This is my solution to Bertram Labs' SWE Internship Challenge
 
 USAGE
-- Collect all of the files in the same folder then open a terminal in that folder
+- Download then collect all of the files in the same folder then open a terminal in that folder
 - Run the program using the command "python3 mainGUI.py"
 - Running this command will bring up the GUI after a second which the user can interact with to add the members of the coffee group
 - Additionally, the program comes preprogrammed with a short list of drinks (Latte for $7, Espresso for $5, and Black Coffee for $3) but more options can be added with the "+ Add Drink" button
 - Once the members have been added and their drinks have been selected, select the "GO" button to choose who should pay for this round of coffee
+- Then new drinks can be selected (or not) and the "GO" button can be pressed again to see who is paying next
 
 ASSUMPTIONS
 - The first assumption I made in creating this program was that every user would show up to every coffee session (and was therefore available to pay)
